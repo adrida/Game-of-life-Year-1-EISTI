@@ -23,6 +23,7 @@
  	   coord = record
  	   x : integer;
  	   y : integer;
+ 	   end.
 
 
  (*----------Type def d'un plateau---------------*)
