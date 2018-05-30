@@ -18,6 +18,11 @@
          main : hand;
          score : integer;
          end;
+         
+ (*----------Type def des coordonées-------------*)        
+ 	   coord = record
+ 	   x : integer;
+ 	   y : integer;
 
 
  (*----------Type def d'un plateau---------------*)
