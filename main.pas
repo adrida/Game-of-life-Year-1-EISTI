@@ -5,9 +5,9 @@ program main;
 
  var
  plat : plateau;
- pioche : pioche;
+ p : pioche;
  begin
  plat := init_plat();
- pioche := init_pioche(6,6,3);
+ p := init_pioche(6,6,3);
  disp_plat(plat,6);
  end.
