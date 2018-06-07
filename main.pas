@@ -1,7 +1,7 @@
 program main;
 
  uses
-         Uinit;
+         Uinit,Utest;
 
  var
  plat : plateau;
